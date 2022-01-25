@@ -1,5 +1,7 @@
 # Security Checklist for Build Container Images
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/bec92131-3fd1-4715-83c3-d1a660503787.svg?orgId=288883884012)](https://app.soluble.cloud/repos/details/github.com/dasalebr/container-security-checklist?orgId=288883884012)  
+
 ## [Container Threat Model](##container-threat-model):
 
 ![thread-model](https://www.oreilly.com/library/view/container-security/9781492056690/assets/cose_0101.png)
